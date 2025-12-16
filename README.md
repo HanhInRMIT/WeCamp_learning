@@ -1,2 +1,2 @@
 # WeCamp_learning
-A github repository for keeping track of my learning progress
+A github repository to keep track of my learning progress
